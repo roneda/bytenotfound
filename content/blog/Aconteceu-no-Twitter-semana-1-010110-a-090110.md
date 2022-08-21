@@ -1,0 +1,29 @@
+
+---
+title: "Aconteceu no Twitter - semana 1 - 01/01/10 a 09/01/10"
+date: 2010-01-10T23:15:00+08:00
+lastmod: 2010-01-25T00:54:53+08:00
+draft: false
+categories: []
+tags: ["twitter", ]
+---
+
+
+Como vocês já sabem, [ultimamente tenho utilizado bastante o Twitter](/blog/post/2009/04/26/Ricardo-Oneda-agora-tambem-no-Twitter.aspx). Como por lá aparece muita coisa interessante, resolvi iniciar uma série aqui no blog sobre os *twittes* que mais me chamaram a atenção na semana. Vou colocar aqui tanto textos escritos por mim quanto pelas pessoas que acompanho no Twitter. A idéia é compartilhar informação, já que se você me acompanha no blog, provavelmente se interessa pelos mesmos assuntos que eu. Além disso, quero manter um registro para referências futuras. Bem, vamos então ao primeiro "Aconteceu no Twitter":
+
+<span class="status-body">**<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[roneda](http://twitter.com/roneda "Ricardo Oneda")**</span></span></span></span></span>** <span class="entry-content">Marco histórico: Amazon vende mais livros para Kindle do que livros em papel no dia de Natal [http://www.businessinsider.com/henry-blodget-kindle-milestone-amazon-sold-more-ebooks-than-physical-books-on-xmas-2009-12](http://www.businessinsider.com/henry-blodget-kindle-milestone-amazon-sold-more-ebooks-than-physical-books-on-xmas-2009-12)[](http://is.gd/5G01S)</span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body">**<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[roneda](http://twitter.com/roneda "Ricardo Oneda")**</span></span></span></span></span>** <span class="entry-content">Parece que foi ontem! Ten years of .NET - Did Microsoft deliver? [http://www.theregister.co.uk/2009/12/17/dot_net_noughties/](http://www.theregister.co.uk/2009/12/17/dot_net_noughties/)</span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[roneda](http://twitter.com/roneda "Ricardo Oneda")** <span class="entry-content">Fontes de informção sobre mídias sociais [http://perolasdasassessorias.wordpress.com/2009/12/21/licao-de-casa/](http://perolasdasassessorias.wordpress.com/2009/12/21/licao-de-casa/)[](http://is.gd/5JOAF)</span></span></span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[AkitaOnRails](http://twitter.com/AkitaOnRails "Fabio Akita")** <span class="entry-content">When Google talked about the ChromeOS I immediately remembered Larry Ellisson's NPC from the mid 90's [http://www.wired.com/magazine/2009/12/fail_oracle/](http://www.wired.com/magazine/2009/12/fail_oracle/) that's old :-)</span></span></span></span></span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[egomesbrandao](http://twitter.com/egomesbrandao "brandão")** <span class="entry-content">Há Chefes De Sobra, Mas Faltam Líderes: [http://portalimprensa.uol.com.br/colunistas/colunas/2010/01/04/imprensa585.shtml](http://portalimprensa.uol.com.br/colunistas/colunas/2010/01/04/imprensa585.shtml) RT do @[pinceladasdaweb](http://twitter.com/pinceladasdaweb)</span></span></span></span></span></span></span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[roneda](http://twitter.com/roneda "Ricardo Oneda")** <span class="entry-content">Como já era esperado, o Google lançou seu telefone, Nexus One [http://www.pcmag.com/article2/0,2817,2357687,00.asp](http://www.pcmag.com/article2/0,2817,2357687,00.asp)</span></span></span></span></span></span></span></span></span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[rodolforoim](http://twitter.com/rodolforoim "Rodolfo Roim")** <span class="entry-content">There you go. The Official Microsoft Blog arrives [http://blogs.technet.com/microsoft_blog/](http://blogs.technet.com/microsoft_blog/)</span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+
+<span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body"><span class="entry-content"><span class="status-body">**@[giovannibassi](http://twitter.com/giovannibassi "Giovanni Bassi")** <span class="entry-content">Project Natal, a ser usado no XBOX 360 original, vai ser vendido... no Natal de 2010! [#MSCES](http://twitter.com/search?q=%23MSCES "#MSCES") \o/</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+
