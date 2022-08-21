@@ -1,0 +1,13 @@
+
+---
+title: "ASP.NET MVC Framework 1.0 e eBook grátis"
+date: 2009-03-24T01:34:00+08:00
+lastmod: 2009-07-10T21:12:47+08:00
+draft: false
+categories: []
+tags: ["asp.net", "livros", "mvc", ]
+---
+
+
+ <table border="0"> <tbody> <tr> <td> <p>Outro anúncio feito no MIX 2009 foi o lançamento da versão final do [ASP.NET MVC Framework](http://www.linhadecodigo.com.br/Artigo.aspx?id=1634 "ASP.NET MVC Framework"), após mais de um ano de versões CTPs, *betas* e *Release Candidates* (o [download pode ser feito aqui](http://go.microsoft.com/fwlink/?LinkId=144444)). Eu já escrevi aqui sobre o MVC Framework [algumas](/blog/post/2007/12/05/Consideracoes-iniciais-sobre-o-ASPNET-MVC-Framework.aspx "Considerações iniciais sobre o ASP.NET MVC Framework ") [vezes](/blog/post/2008/01/13/Desvendando-o-ASPNET-MVC-Framework.aspx "Desvendando o ASP.NET MVC Framework"), inclusive um [artigo](http://www.linhadecodigo.com.br/Artigo.aspx?id=1634 "ASP.NET MVC Framework") explicando em detalhes o seu funcionamento. Apesar de ser antigo e estar desatualizado - afinal, foi escrito com base na primeira versão pública do *framework*, os principais conceitos estão todos lá. Eu, particularmente, gosto bastante da abordagem do ASP.NET MVC. Minha principal crítica ao modelo *web forms* é que ele tenta abstrair (ou esconder) dos desenvolvedores muitos aspectos essenciais para o entendimento de uma aplicação web, tudo em nome de um possível ganho de produtividade. Pode funcionar muito bem para aplicações mais padronizadas e simples, mas a medida que se necessita de algo mais sofisticado, o nível de complexidade aumenta, fazendo com que se tenha que mergulhar em detalhes da plataforma que nem sempre são claros. Já no modelo MVC, é possível ter um controle maior sobre como as coisas funcionam, além de exigir um maior entendimento de como funciona uma aplicação web. </p> <p>Se você quiser se aprofundar no ASP.NET MVC Framework, além dos artigos que indiquei acima, também sugiro fazer o [download](http://tinyurl.com/aspnetmvc "Professional ASP.NET MVC 1.0") gratuito do *eBook* escrito por [Scott Guthrie](http://weblogs.asp.net/scottgu/default.aspx). Na realidade, esse *eBook* é o primeiro capítulo do livro *Professional ASP.NET MVC 1.0*, que ainda vai ser lançado e, além de ScottGu, também tem como seus autores feras como [Rob Conery](http://blog.wekeroad.com/), [Scott Hanselman](http://www.hanselman.com/blog/) e [Phil Haack](http://haacked.com/). Considerando que o livro vai ter 400 páginas, e o primeiro capítulo, disponível gratuito, tem praticamente 200, metade você pode ler de graça!</p> </td> <td>[![Professional ASP.NET MVC Framework 1.0](/img/2009/livroMVC.png "Professional ASP.NET MVC Framework 1.0")](http://tinyurl.com/aspnetmvc)</td> </tr> </tbody> </table> 
+

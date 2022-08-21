@@ -1,0 +1,19 @@
+
+---
+title: "Agitos no mercado de busca"
+date: 2008-02-04T22:56:00+08:00
+lastmod: 2009-06-25T01:45:58+08:00
+draft: false
+categories: []
+tags: ["divagações", "microsoft", "google", ]
+---
+
+
+A semana passada terminou com duas notícias que, se concretizadas, serão bombásticas para o mercado de buscas na Internet. A primeira delas, e a mais alardeada e concreta, foi a [oferta da Microsoft pela compra do Yahoo!](http://idgnow.uol.com.br/mercado/2008/02/01/microsoft-formaliza-proposta-de-us-44-6-bilhoes-para-comprar-yahoo/) por *apenas* US$ 44 bilhões. Isso faz a [compra do YouTube pelo Google](/blog/post/2006/10/12/Google-e-YouTube.aspx "Google e YouTube") parecer brincadeira de criança. Já fazia tempo que a Microsoft tentava ganhar participação no mercado de buscas e, principalmente, no lucrativo mercado de anúncions on-line, onde o Google impera. Apesar de ter adquirido algumas outras empresas da chamada Web 2.0, como o [Flickr](http://www.flickr.com/), o [Del.icio.us](http://del.icio.us/) e o [Zimbra](http://zimbra.com/) (que oferece ferramentas on-line para escritório - planilha, processador de texto, etc), o Yahoo! [não ia muito bem financeiramente](http://idgnow.uol.com.br/mercado/2008/01/30/yahoo-demite-mil-e-diz-que-enfrenta-vento-contrario/) e, falando sinceramente, não tem mais o mesmo brilho que já teve um dia.
+
+Tanto o Yahoo! quanto a Microsoft correm atrás do Google, mas não sei se a união dos dois vai trazer algum benefício muito diferente do que conseguiriam se separados. O fato de serem duas empresas gigantes e com recursos abundantes não significa que a união será um sucesso, sendo que pode mais atapalhar do que ajudar (a fusão entre a Time Warner e a AOL é um exemplo). Além disso, também se deve levar em conta a diferença cultural entre as empresas e possíveis problemas com questões antitruste - se bem que nesse último caso, se há um monopólio nesse mercado, é o Google que o tem. Tenho a impressão de que a Microsoft parece totalmente obcecada pelo Google, como se tivesse virado uma questão de honra conseguir *derrotá-lo*. A Microsoft já conseguiu algumas viradas históricas, mas devemos lembrar que agora Bill Gates não estará acompanhando tudo de tão perto, como acontecia antigamente. Por falar em Google, em seu blog oficial foi [publicado um post](http://googleblog.blogspot.com/2008/02/yahoo-and-future-of-internet.html) no qual ele se diz preocupado com o futuro da Internet caso essa operação se confirme - claro que eles estão querendo defender seus negócios. Já começam a surgir rumores de que o Google [estivesse fazendo uma outra proposta](http://www.pcmag.com/article2/0,2704,2255585,00.asp) ao Yahoo!, para que o mesmo não aceitasse a da Microsoft.
+
+A outra notícia, que acabou sendo ofuscada, refere-se ao leilão da faixa de 700 Mhz nos EUA. A [maior proposta até agora é de US$ 4,7 bilhões](http://idgnow.uol.com.br/telecom/2008/01/31/bloco-c-no-espectro-de-700-mhz-atinge-proposta-de-us-4-7-bi-nos-eua/) (o leilão ainda não terminou). Crescem rumores de que seja o Google o responsável por esse lance, já que seu interesse pelo leilão é público. Atualmente, essa freqüência é utilizada para sinal de televisão, mas a partir de 2009, com a adoção total do sistema digital pelas redes de TV americanas, será utilizada para tráfego de dados, com acesso aberto sem fio para qualquer tipo de aparelho e aplicações, de qualquer operadora. Se levarmos em conta que o Google havia anunciado recentemente o [Android](http://oglobo.globo.com/tecnologia/mat/2007/11/05/327030463.asp), sua plataforma aberta para dispositivos móveis, [faz sentido](http://www.techbits.com.br/2007/12/01/o-interesse-da-google-nos-700-mhz/) (imaginem o quão lucrativo seria o mercado de anúncios em dispositivos móveis).
+
+Será interessante ver o desdobramento dessas ações nos próximos meses.
+
