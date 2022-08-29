@@ -1,7 +1,7 @@
 ---
 title: "Reativando o blog"
 date: 2022-08-26T08:14:36-03:00
-draft: true
+draft: false
 tags: ["blog", ]
 ---
 
