@@ -23,7 +23,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Byte not found
   description: "Blog de Ricardo Oneda"
   keywords: [Blog, Ricardo Oneda, Tecnologia]
   author: "Ricardo Oneda"
