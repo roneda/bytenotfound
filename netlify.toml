@@ -1,8 +1,13 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo --gc --minify && mv public/tags/.net-framework/ public/tags/net-framework/"
 
 [context.production.environment]
 HUGO_VERSION = "0.101.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/tags/.net-framework/"
+  to = "/tags/net-framework/"
+  status = 200
