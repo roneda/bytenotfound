@@ -1,5 +1,5 @@
 ---
-title: "Migrando o blog para Hugo"
+title: "Migrando do BlogEngine.NET para para Hugo"
 date: 2022-09-03T16:59:25-03:00
 draft: false
 tags: ["blog", "hugo"]
