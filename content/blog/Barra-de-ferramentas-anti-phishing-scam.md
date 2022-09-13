@@ -15,11 +15,11 @@ No meu último [post](/blog/post/2005/02/20/Firefox-nao-e-uma-ameaca-ao-IEainda.
 
 Para aqueles que não querem esperar até a próxima versão do IE para ficarem um pouco mais seguros, a [Netcraft](http://www.netcraft.com/ "Netcraft"), famosa por suas estatísticas de web sites, como sistemas operacionais utilizados na Internet entre outros serviços, disponibilizou uma [barra de ferramentas anti-phishing scam](http://toolbar.netcraft.com/ "Netcraft Toolbar") para o IE, parecida com a barra de ferramentas do [Google](http://toolbar.google.com/ "Barra de Ferramentas do Google") e outras similares.   
 
-![](http://toolbar.netcraft.com/images/demo_basic.gif)  
+![](https://toolbar.netcraft.com/images/demo_basic.gif)  
 
 As URLs dos sites falsos são armazenadas nos servidores da Netcraft e o interessante é que as pessoas podem alimentar esta base, fazendo com que quanto mais pessoas utilizarem esta ferramenta, maior a probabilidade do site ser identificado como falso. Quando se tenta acessar um site suspeito da lista, um alerta é emitido.  
 
-![](http://news.netcraft.com/archives/2004/12/28/denied_page.gif)  
+![](https://news.netcraft.com/archives/2004/12/28/denied_page.gif)  
 
 É uma idéia bem interessante!
 

@@ -16,7 +16,7 @@ Entretanto, pesquisando no [Wikipedia](http://pt.wikipedia.org/wiki/Bug), descob
 
 Veja abaixo uma imagem do bichinho, da década de 40 do século passado, que gerou toda esta história (clique na imagem para ampliar):
 
-[![](http://www.history.navy.mil/photos/images/h96000/h96566kt.jpg)](http://www.history.navy.mil/photos/images/h96000/h96566k.jpg)
+[![](https://www.history.navy.mil/photos/images/h96000/h96566kt.jpg)](http://www.history.navy.mil/photos/images/h96000/h96566k.jpg)
 
 Ricardo Oneda
 

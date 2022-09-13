@@ -19,9 +19,9 @@ Pessoalmente, prefiro o Notepad++. Entre suas características, estão o reconhe
 
 Uma pequena curiosidade: nos primórdios da Internet, quando ela ainda não era uma rede tão comercial, era comum nos depararmos com imagens como a seguinte em sites pessoais:
 
-![](http://www.geocities.com/gabbyscorner2002/np.gif)
+![](https://www.geocities.com/gabbyscorner2002/np.gif)
 
-Era uma época na qual quem sabia HTML era tratado como um Deus e ganhava rios de dinheiro. Também era uma maneira um tanto infantil de demonstrar conhecimento - e de que era "cabra macho", já que tudo tinha sido feito na "unha" ![Smile](http://localhost/blog/editors/tiny_mce3/plugins/emotions/img/smiley-smile.gif "Smile")
+Era uma época na qual quem sabia HTML era tratado como um Deus e ganhava rios de dinheiro. Também era uma maneira um tanto infantil de demonstrar conhecimento - e de que era "cabra macho", já que tudo tinha sido feito na "unha" :smiley:
 
 Ricardo Oneda.
 

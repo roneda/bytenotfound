@@ -21,6 +21,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+enableEmoji: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Byte not found
@@ -50,6 +52,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  
+  ShareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"] # To customize which share buttons to be enabled on page
 
   profileMode:
     enabled: false # needs to be explicitly set
