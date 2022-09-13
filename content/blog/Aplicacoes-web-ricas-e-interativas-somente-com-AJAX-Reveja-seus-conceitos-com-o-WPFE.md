@@ -9,7 +9,7 @@ tags: ["ajax", "asp.net", "ria", ]
 ---
 
 
-Se você acha que uma melhor experiência do usuário e interatividade em aplicações ASP.NET, ou uma aplicação web qualquer, só são plenamente atingidas com o uso de técnicas AJAX, então é porque você não conhece o WPF/E. Isso é até natural, já que o CTP - *Community Technology Preview* - acabou de ser lançado no dia 04/12 ![Laughing](http://localhost/blog/editors/tiny_mce3/plugins/emotions/img/smiley-laughing.gif "Laughing")
+Se você acha que uma melhor experiência do usuário e interatividade em aplicações ASP.NET, ou uma aplicação web qualquer, só são plenamente atingidas com o uso de técnicas AJAX, então é porque você não conhece o WPF/E. Isso é até natural, já que o CTP - *Community Technology Preview* - acabou de ser lançado no dia 04/12 :smiley:
 
 O ASP.NET AJAX, que ainda nem teve sua versão final lançada - [está no beta 1](/blog/post/2006/10/22/ASPNET-AJAX-Beta-1.aspx), foi só o começo e já adquire ares de coisa do passado. O WPF/E - sigla para *Windows Presentation Foundation Everywhere* - é o codinome da tecnologia Microsoft para o desenvolvimento de aplicações web ricas e interativas, através do uso de vetores gráficos, animações e outros recursos multimídia. Como seu nome indica, ele é um subconjunto do WPF, tecnologia responsável pela parte de *User Interface* - UI - no .NET 3.0/Windows Vista, e utiliza o XAML (*eXtensible Application Markup Language*) como linguagem de definição de interface (uma espécie de HTML turbinado).
 

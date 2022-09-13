@@ -11,7 +11,7 @@ tags: ["visual studio", ]
 
 A Microsoft acabou de [anunciar em seu site](http://www.microsoft.com/presspass/press/2006/apr06/04-19VSExpressFreePR.mspx) que todas as versões Express do Visual Studio serão gratuitas permanentemente. Quando foi lançado em novembro de 2005, a linha Express seria gratuita desde que o programa fosse registrado até a data limite de novembro de 2006. Após esta data, seria cobrada uma quantia para quem quisesse fazer o download da ferramenta. Agora isso não irá mais ocorrer.
 
-Para o pessoal aqui do theSpoke talvez não seja uma grande novidade, mas existe uma grande quantidade de pessoas que não aprende esta tecnologia por falta de conhecimento da existência de ferramentas gratuitas para utilizar. Agora, não há desculpa para não aprender ![Smile](http://localhost/blog/editors/tiny_mce3/plugins/emotions/img/smiley-smile.gif "Smile")
+Para o pessoal aqui do theSpoke talvez não seja uma grande novidade, mas existe uma grande quantidade de pessoas que não aprende esta tecnologia por falta de conhecimento da existência de ferramentas gratuitas para utilizar. Agora, não há desculpa para não aprender :smiley:
 
 Vejam as perguntas e respostas retiradas da [FAQ](http://www.microsoft.com/express/support/faq/) do Visual Studio Express:
 
