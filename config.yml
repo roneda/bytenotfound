@@ -78,6 +78,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/roneda"
+    - name: mastodon
+      url: "https://mastodon.social/@roneda"
     - name: linkedin
       url: "https://www.linkedin.com/in/oneda"
   #  - name: github
