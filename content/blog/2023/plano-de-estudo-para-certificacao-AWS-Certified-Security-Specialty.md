@@ -2,7 +2,7 @@
 title: "Plano de estudo para certificação AWS Certified Security - Specialty"
 date: 2023-03-30T20:20:06-03:00
 draft: false
-tags: ["aws", "certificação"]
+tags: ["aws", "certificação", "segurança"]
 ShowToc: true
 TocOpen: true
 ---
