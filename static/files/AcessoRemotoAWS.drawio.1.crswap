@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T00:33:11.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="Ts2pjp5Aq2sBVIJrTlHR" version="21.6.1" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-11T00:31:50.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="Zz51iPQ9mMOVWvaZl0St" version="21.6.1" type="device" pages="2">
   <diagram name="EC2-SSH" id="QO6LrMLHSdQ3H80cLa9i">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -108,40 +108,17 @@
         <mxCell id="YpJWJDn8HKekhSJmQaF8-15" value="Internet&lt;br&gt;Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" parent="YpJWJDn8HKekhSJmQaF8-1" vertex="1">
           <mxGeometry x="370" y="298" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-0" value="Subnet Privada" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
+        <mxCell id="Ys69wEUvkwb_XarPpLgO-0" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
           <mxGeometry x="740" y="228" width="170" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-1" value="Servidor Aplicação 1&lt;br&gt;Instância EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
+        <mxCell id="Ys69wEUvkwb_XarPpLgO-1" value="Servidor Aplicação&lt;br&gt;Instância EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
           <mxGeometry x="801" y="260" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-2" value="Servidor Aplicação 2&lt;br&gt;Instância EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
+        <mxCell id="Ys69wEUvkwb_XarPpLgO-2" value="Servidor Aplicação&lt;br&gt;Instância EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="YpJWJDn8HKekhSJmQaF8-1">
           <mxGeometry x="801" y="358" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ys69wEUvkwb_XarPpLgO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YpJWJDn8HKekhSJmQaF8-1" source="YpJWJDn8HKekhSJmQaF8-12" target="Ys69wEUvkwb_XarPpLgO-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="322" />
-              <mxPoint x="720" y="284" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-5" value="SSH/22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ys69wEUvkwb_XarPpLgO-3">
-          <mxGeometry x="0.4927" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YpJWJDn8HKekhSJmQaF8-1" source="YpJWJDn8HKekhSJmQaF8-12" target="Ys69wEUvkwb_XarPpLgO-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="322" />
-              <mxPoint x="720" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys69wEUvkwb_XarPpLgO-6" value="SSH/22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ys69wEUvkwb_XarPpLgO-4">
-          <mxGeometry x="0.5289" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

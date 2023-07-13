@@ -22,19 +22,19 @@ Observe os seguintes pontos:
 
 Para implementar esse cenário, acesse sua conta AWS através da console. O primeiro passo é criar uma VPC e uma subnet pública. A VPC padrão que toda conta AWS possui já vem com uma subnet pública e Internet Gateway configurados e é ela que iremos utilizar nesse exemplo. Caso queira, você pode começar do zero e criar uma nova VPC com uma nova subnet e configurar o Internet Gateway nela.
 
-Em seguida, crie uma instância EC2 que irá fazer o papel do servidor de aplicação. No painel de gerenciamento de EC2 na console da AWS, escolha a opção "Launch Instance". Isso irá iniciar o guia de criação de EC2, que deve ser criada com as seguintes configurações:
+Em seguida, crie uma instância EC2 que irá fazer o papel do servidor de aplicação. No painel de gerenciamento de EC2 na console da AWS, escolha a opção **"Launch Instance"**. Isso irá iniciar o guia de criação de EC2, que deve ser criada com as seguintes configurações:
 * Name: **AppServer**
 * Application and OS Images (Amazon Machine Image): **Amazom Linux - Amazon Linux 2023 AMI**
-* Instance type: t2.micro (esse tipo de instância é elegível ao free tier da AWS)
+* Instance type: **t2.micro** (esse tipo de instância é elegível ao free tier da AWS)
 * Key pair (login)
     * aqui precisamos criar um par de chaves pública/privada, que será utilizada para autenticação no acesso SSH da instância EC2. Clique no link **"Create new key pair"**, conforme imagem abaixo:
     {{< figure src="/img/2023/AcessoRemotoAWS-1-keypair.png" align="center" alt="Imagem da console AWS mostrando o link de criação de um novo par de chaves" >}}
     * em **"Key pair name"**, coloque **AppServerKeyPair**
     * deixe as demais configurações conforme sugeridas e clique no botão **"Create key pair"**. Ao fazer isso, o par de chaves será gerado e o download da chave privada será feito automaticamente para o seu computador (arquivo **AppServerKeyPair.pem**)
-    * após a criação do par de chaves, ela deverá aparecer disponível para ser selecionada. Selecione-a para que a chave pública dela seja associada à instância EC2 que será criada.
+    * após a criação do par de chaves, ele deverá aparecer disponível para ser selecionado. Selecione-o para que a chave pública dele seja associada à instância EC2 que será criada.
     {{< figure src="/img/2023/AcessoRemotoAWS-1-keypair-2.png" align="center" alt="Imagem da console AWS mostrando a seleção do par de chaves criado" >}}
 * Network Settings:
-    * Nesse item, devemos configurar a subnet a ser utilizada. Clique em Edit
+    * Nesse item, devemos configurar a subnet a ser utilizada. Clique em **Edit**
     * VPC: escolha a VPC que será utilizada
     * Subnet: escolha uma subnet pública disponível
     * Firewall (security groups)
