@@ -9,7 +9,7 @@ tags: ["eventos", "comunidade", ]
 ---
 
 
-Conforme prometi no meu último [post]({{< relref "/blog/VS-2005-Training-Fest-e-novidades-do-MSDN-Brasil.md" >}} "VS 2005 Training Fest e novidades do MSDN Brasil"), irei escrever sobre as palestras que ocorreram com o(s) palestrante(s) local(is) no VS 2005 Training Fest. Bem, posso dizer que a palestra foi um misto de bizarrice com decepção. Não estaria exagerando se dissesse que foi a pior palestra que já vi. Tudo isso por causa do nosso ilustre palestrante (cujo nome não irei citar).   
+Conforme prometi no meu último [post]({{< relref "/blog/2014antes/VS-2005-Training-Fest-e-novidades-do-MSDN-Brasil.md" >}} "VS 2005 Training Fest e novidades do MSDN Brasil"), irei escrever sobre as palestras que ocorreram com o(s) palestrante(s) local(is) no VS 2005 Training Fest. Bem, posso dizer que a palestra foi um misto de bizarrice com decepção. Não estaria exagerando se dissesse que foi a pior palestra que já vi. Tudo isso por causa do nosso ilustre palestrante (cujo nome não irei citar).   
 
 Percebia-se claramente que ele não entendia nada do assunto (novidades do .NET 2.0) e, o pior, ele também não entendia nem do básico da versão 1.X. Para complicar ainda mais a situação, ele é MCP (!) e líder de uma célula acadêmica (!!). Fiquei imaginando o quanto de informações incorretas ele já não deve ter passado para as pessoas que têm contato com ele. Vejamos algumas das pérolas que ele disse e vejam se eu não tenho razão:  
 

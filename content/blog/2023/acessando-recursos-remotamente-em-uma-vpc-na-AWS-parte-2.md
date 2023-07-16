@@ -1,6 +1,6 @@
 ---
 title: "Acessando recursos remotamente em uma VPC na AWS - parte 2"
-date: 2023-07-10T21:10:58-03:00
+date: 2023-07-12T21:10:58-03:00
 draft: false
 tags: ["aws", "vpc", "ssh", "acesso remoto", "infraestrutura", "segurança", "bastion host"]
 ---
@@ -146,7 +146,12 @@ Note que nesse segundo comando não foi necessário especificar nenhuma chave pr
 
 Para voltar para sua máquina local, utilize o atalho **Ctrl + D** duas vezes: uma para voltar para o Bastion Host e outra para voltar para a linha de comando do seu computador local.
 
-Em relação ao modelo utilizado no [post anterior](({{< relref "/blog/2023/acessando-recursos-remotamente-em-uma-vpc-na-AWS-parte-1.md">}})), essa opção possui como vantagem uma menor superfície de ataque, pois os servidores de aplicação não precisam ficar expostos diretamente para a Internet, podendo ficar isolados em uma subnet privada. Entretanto, o Bastion Host torna-se um componete crítico de segurança e traz algumas implicações. Ele precisa ficar exposto na Internet, o que o torna sujeito a tentativas de ataque, e para diminuir esse risco, deverá passar por um processo de *hardening*. Além disso, ele terá que ser devidamente gerenciado, mantido e atualizado, o que demanda esforço. Outra preocupação que deve ser tratada é quanto a alta disponibilidade dessa solução. Para fins didáticos, o Bastion Host encontra-se somente em uma zona de disponibilidade, mas para cenários críticos, isso não é suficiente. Para finalizar, a complexidade de gerenciamento e armazenamento das chaves privadas continua. 
+Em relação ao modelo utilizado no [post anterior]({{< relref "/blog/2023/acessando-recursos-remotamente-em-uma-vpc-na-AWS-parte-1.md">}}), essa opção possui como vantagem uma menor superfície de ataque, pois os servidores de aplicação não precisam ficar expostos diretamente para a Internet, podendo ficar isolados em uma subnet privada. Entretanto, o Bastion Host torna-se um componete crítico de segurança e traz algumas implicações:
+* o Bastin Host precisa ficar exposto na Internet, o que o torna sujeito a tentativas de ataque, e para diminuir esse risco, deverá passar por um processo de *hardening*. 
+* além disso, o Bastion Host terá que ser devidamente gerenciado, mantido e atualizado, o que demanda esforço. 
+* outra preocupação que deve ser tratada é quanto a alta disponibilidade dessa solução. Para fins didáticos, o Bastion Host encontra-se somente em uma zona de disponibilidade, mas para cenários críticos, isso não é suficiente. 
+* além de ser uma solução mais complexa de gerenciar, ela fica mais cara, pois o Bastion Host é um componente a mais que demandará recursos que gerarão custos (instâncias EC2, etc.)
+* para finalizar, a complexidade de gerenciamento e armazenamento das chaves privadas continua. 
 
 Nas próximos posts da série serão exploradas mais alternativas de como melhorar a solução em relação a esses pontos.
 
