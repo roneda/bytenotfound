@@ -1,5 +1,5 @@
 ---
-title: "Acessando recursos remotamente em uma VPC na AWS - parte 2"
+title: "Acessando recursos remotamente em uma VPC na AWS - parte 2 - Bastion Host com SSH"
 date: 2023-07-12T21:10:58-03:00
 draft: false
 tags: ["aws", "vpc", "ssh", "acesso remoto", "infraestrutura", "segurança", "bastion host"]
@@ -27,7 +27,7 @@ No cenário de exemplo que será utilizado aqui, o Bastion Host será uma instâ
 
 Para implementar esse cenário, acesse sua conta AWS através da console. O primeiro passo é criar uma VPC, uma subnet pública e uma subnet privada. A VPC padrão que toda conta AWS possui já vem com uma subnet pública e Internet Gateway configurados e é ela que iremos utilizar nesse exemplo. Caso queira, você pode começar do zero e criar uma nova VPC com uma nova subnet e configurar o Internet Gateway nela. Crie também uma subnet privada, ou seja, uma subnet cuja Route Table não possua roteamento para o Internet Gateway. Essa Route Table também deverá ser criada. 
 
-No painel de gerenciamento de VPC, acesse a opção **Route tables** no menu do lado direito e depois clique no botão **"Create route table"**. Preencha os campos com os seguintes valores:
+No painel de gerenciamento de VPC, acesse a opção **Route tables** no menu do lado esquerdo e depois clique no botão **"Create route table"**. Preencha os campos com os seguintes valores:
 * Name: **PrivateRouteTable**
 * VPC: selecione a VPC que será utilizada
 * Clique em **"Create route table"**

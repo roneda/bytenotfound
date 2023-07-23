@@ -1,5 +1,5 @@
 ---
-title: "Acessando recursos remotamente em uma VPC na AWS - parte 1"
+title: "Acessando recursos remotamente em uma VPC na AWS - parte 1 - SSH"
 date: 2023-07-09T09:51:39-03:00
 draft: false
 tags: ["aws", "vpc", "ssh", "acesso remoto", "infraestrutura", "segurança"]
