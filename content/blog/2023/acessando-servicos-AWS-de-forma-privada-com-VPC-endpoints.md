@@ -48,7 +48,7 @@ O **Interface VPC Endpoint** [suporta uma gama muito maior de serviços da AWS](
 É importante notar que:
 * a aplicação está em uma subnet privada, ou seja, sem acesso a Internet.
 * o acesso acontece através da ENI (placa de rede virtual) criada na subnet, que consegue acessar a fila SQS de forma privada através do PrivateLink. Para a aplicação é como se a fila SQS estivesse na VPC.
-* o acesso ao serviço AWS pode ser feito através da mesma URL do endpoint público. Quando o Interface VPC Endpoint é criado, automaticamente é feita uma configuração no DNS que resolve a URL do endpoint público para o endereço IP privado da ENI na VPC ao invés do endereço IP público (essa é uma técnica chamada [*split-horizon DNS*](https://en.wikipedia.org/wiki/Split-horizon_DNS)). Dessa forma, o uso do Interface VPC Endpoint é transparanete para a aplicação, que não precisa ser alterada. Mais detalhes em [DNS Resolution](https://docs.aws.amazon.com/vpc/latest/privatelink/privatelink-access-aws-services.html#interface-endpoint-dns-resolution).
+* o acesso ao serviço AWS pode ser feito através da mesma URL do endpoint público. Quando o Interface VPC Endpoint é criado, automaticamente é feita uma configuração no DNS que resolve a URL do endpoint público para o endereço IP privado da ENI na VPC ao invés do endereço IP público (essa é uma técnica chamada [*split-horizon DNS*](https://en.wikipedia.org/wiki/Split-horizon_DNS)). Dessa forma, o uso do Interface VPC Endpoint é transparente para a aplicação, que não precisa ser alterada. Mais detalhes em [DNS Resolution](https://docs.aws.amazon.com/vpc/latest/privatelink/privatelink-access-aws-services.html#interface-endpoint-dns-resolution).
 
 ### Preparando o ambiente
 
