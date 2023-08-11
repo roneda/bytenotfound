@@ -3,6 +3,8 @@ title: "Acessando serviços AWS de forma privada com Interface VPC Endpoint/Priv
 date: 2023-08-10T20:09:40-03:00
 draft: false
 tags: ["aws", "vpc endpoint", "vpc", "infraestrutura", "privatelink"]
+cover: 
+  image: "/img/2023/AcessoPrivadoAWS-1-interface-vpc-endpoint.png"
 ---
 
 Como sabemos, a AWS possui uma série de produtos que são oferecidos como serviços (ex: SQS, SNS, S3, DynamoDB, etc). Esses serviços são acessados através de **endpoints** que, por padrão, são "públicos", ou seja, são acessados pela Internet. É através desses endpoints públicos que é possível interagir com as APIs dos serviços da AWS pela Internet usando, por exemplo, a linha de comando (AWS CLI) em nossos computadores pessoais.

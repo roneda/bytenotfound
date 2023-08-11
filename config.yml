@@ -53,6 +53,11 @@ params:
   showtoc: false
   tocopen: false
   
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
   ShareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"] # To customize which share buttons to be enabled on page
 
   profileMode:
