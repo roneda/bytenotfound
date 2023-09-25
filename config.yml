@@ -87,8 +87,8 @@ params:
       url: "https://mastodon.social/@roneda"
     - name: linkedin
       url: "https://www.linkedin.com/in/oneda"
-  #  - name: github
-  #    url: "https://github.com/"
+    - name: github
+      url: "https://github.com/roneda"
     - name: rss
       url: "https://feeds.feedburner.com/bytenotfound/igpndrt7gc8"
   
