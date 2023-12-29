@@ -49,7 +49,7 @@ Para demonstrar como isso funciona na prática, foi criado um [template CloudFor
 * uma IAM Role e um Instance Profile, que serão utilizados na instância EC2 e com permissões para acessar o Session Manager;
 * dois Interface VPC Endpoints para acessar os endpoints do Session Manager. Como a EC2 ficará em uma subnet sem conectividade com a Internet, o acesso aos endpoints do Session Manager da AWS ocorrerá através desses Interface VPC Endpoints;
 * um Interface VPC Endpoint para acessar o endepoint do SQS. Como a EC2 ficará em uma subnet sem conectividade com a Internet, o acesso aos endpoints do Session Manager da AWS ocorrerá através desses Interface VPC Endpoints;
-* um security goup a ser utilizado nos Interface VPC Endpoints, que permite tráfego de entrada na porta 443 (lembre-se que o acesso aos endpoints da AWS ocorre via HTTPS através das ENIs criadas);
+* um security group a ser utilizado nos Interface VPC Endpoints, que permite tráfego de entrada na porta 443 (lembre-se que o acesso aos endpoints da AWS ocorre via HTTPS através das ENIs criadas);
 * um security group a ser utilizado no jump server;
 * um security group a ser utilizado no banco de dados RDS, que permite tráfego originado do jump server;
 
