@@ -1,8 +1,8 @@
 ---
 title: "Lições que podemos aprender com o apagão causado pela CrowdStrike (Blue Friday)"
 date: 2024-07-21T16:56:02-03:00
-draft: true
-tags: ["", ]
+draft: false
+tags: ["crowdstrike", "segurança", "microsoft", "windows", "bluefriday"]
 cover: 
   image: "/img/2024/bsod.png"
 ---
