@@ -6,7 +6,7 @@ tags: ["kubernetes", "certificação", "ckad", "linux foundation", "cncf"]
 ShowToc: true
 TocOpen: true
 cover: 
-  image: "/img/2023/AWS-DOP.png"
+  image: "/img/2025/ckad.png"
 ---
 
 No começo de abril de 2025, passei na prova [CKAD - Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/). Vou compartilhar como me preparei para a prova, com dicas para quem estiver interessado.
